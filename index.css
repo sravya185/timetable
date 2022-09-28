@@ -1,0 +1,147 @@
+
+
+
+
+
+
+body{
+    background:rgba(0,0,0,0.5) url("https://cdn-image.foodandwine.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1559057296/Burger-National-Hamburger-Day-FT-Blog0619.jpg?itok=p_c0wvCU");
+     background-size: cover;
+     background-blend-mode: darken;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.con1{
+    display:inline-block;
+}
+.c1{
+    width:80px;
+    height:390px;
+    background-color: black;
+    
+}
+#i2{
+    background-color: yellow;
+    height:270px;
+}
+
+.fa-list{
+    color: white;
+    margin-left: 30px;
+
+    margin-top: 50px;
+}
+.fa-magnifying-glass{
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+.b1{
+    color:black;
+    margin-left: 28px;
+    border: 2px solid black;
+    background-color: yellow;
+   border-radius: 9px;
+    margin-top: 30px;
+}
+.fa-instagram{
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+.fa-twitter{
+    border: 1px solid black;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 25px;
+    border-radius: 12px;
+    
+}
+.fa-comment{
+    
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 29px; 
+}
+
+.list1 li span{
+    writing-mode:vertical-rl;
+    font-size: 12px;
+   
+}
+.list1 li{
+    display: inline;
+    color:white;
+
+}
+.li1{
+   
+    border-top: 30px;
+    font-size: 35px;
+}
+.li2 a{
+   margin-left: 50px;
+   color: white;
+   text-decoration: none;
+}
+.li2 a:hover{
+    text-decoration: underline solid yellow;
+}
+.list1 li button{
+    background-color: yellow;
+    width:100px;
+    height:30px;
+    margin-left: 520px;
+    border-color: yellow;
+    border-radius: 2px;
+    color: black;
+}
+.p1{
+    color:white;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 100px; 
+ }
+.p1 span{
+    color: yellow;
+}
+.p2{
+    color:white;
+    font-size: 50px;
+    margin-left: 30px;   
+}
+.p2 span{
+    color: yellow;
+}
+.con2 button{
+    background-color: yellow;
+    width:100px;
+    height:30px;
+    margin-left: 30px;
+    border-color: yellow;
+    border-radius: 2px;
+    color: black;
+}
+.last{
+    background-color: yellow;
+    width:200px;
+    height: 130px;
+    margin-top:200px;
+    margin-left: 800px;
+    padding: 10px;
+    margin-bottom: 0;
+}
+.last a{
+    text-decoration: none;
+    color: black;
+}
+.ank{
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+
+
